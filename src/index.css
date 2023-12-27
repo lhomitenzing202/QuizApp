@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    background-color: rgb(210, 166, 250);
+    padding-left: 10px;
+    font-family: 'poppins';
+}
